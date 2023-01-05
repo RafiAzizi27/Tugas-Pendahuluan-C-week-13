@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1671261195 source:e:\impoortant\kuliah\semester 3\c++\tp13\tp13\main.cpp
+	<iostream>
+	"graf.h"
+
+1671259130 e:\impoortant\kuliah\semester 3\c++\tp13\tp13\graf.h
+	<iostream>
+
+1671260303 source:e:\impoortant\kuliah\semester 3\c++\tp13\tp13\graf.cpp
+	"Graf.h"
+
